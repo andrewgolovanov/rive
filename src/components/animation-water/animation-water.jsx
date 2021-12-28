@@ -38,7 +38,7 @@ const AnimationWater = () => {
     <div
       style={{ marginTop: '100px', marginBottom: '100px', textAlign: 'center' }}
     >
-      <RiveComponent style={{ width: 1000 }} />
+      <RiveComponent style={{ width: 'calc(100vw - 300px)' }} />
       <input type='range' onChange={handleChange} defaultValue={0} />
     </div>
   );

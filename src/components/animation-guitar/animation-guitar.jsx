@@ -64,7 +64,7 @@ const AnimationGuitar = () => {
   return (
     <>
       <RiveComponent
-        style={{ height: 500, width: 500 }}
+        style={{ width: 'calc(100vh - 200px)' }}
         onClick={handleClick}
       />
       <form
