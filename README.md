@@ -2,6 +2,8 @@
 
 This repository is used to test the operation of [rive-react](https://github.com/rive-app/rive-react)
 
+Demo: [https://rive-react.netlify.app/](https://rive-react.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
