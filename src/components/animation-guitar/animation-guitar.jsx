@@ -51,7 +51,7 @@ const AnimationGuitar = () => {
   const handleClick = (e) => {
     e.preventDefault();
 
-    if (!isError) {
+    if (!isError || !inputText) {
       return setIsError(true);
     }
 
